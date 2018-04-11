@@ -1,1 +1,3 @@
 # CS440_CH04_Demo_Fleming_George
+
+I would choose the Apache 2.0 license. The reason to choose this license is because I would like my code to be improved upon by other more capable coders in the world. I would I like to still keep credit for the original code but be more open to sharing it so that it may be better and documented. The Apache licence would allow users of the licence to use and distribute copys of the material while leaving the original author of the code free from liability were the code or material used not to perform perfectly. The licence also requires owners of the licence to modify the code but need to document changed within. Also, the license is free.
